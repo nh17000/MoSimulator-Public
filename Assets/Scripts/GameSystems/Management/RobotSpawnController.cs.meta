@@ -1,2 +1,24 @@
 fileFormatVersion: 2
 guid: 44b100fffbf6e134686d2a37c1cd652b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - listener: {instanceID: 0}
+  - preloadPrefab: {instanceID: 0}
+  - blueMainCamera: {instanceID: 0}
+  - blueThirdPersonCam: {instanceID: 0}
+  - blueFirstPersonCam: {instanceID: 0}
+  - blueDriverStationCam: {instanceID: 0}
+  - multiplayerBlueDriverStationCam: {instanceID: 0}
+  - redMainCamera: {instanceID: 0}
+  - redThirdPersonCam: {instanceID: 0}
+  - redFirstPersonCam: {instanceID: 0}
+  - redDriverStationCam: {instanceID: 0}
+  - multiplayerRedDriverStationCam: {instanceID: 0}
+  - robotOverride: {fileID: 11400000, guid: 3fcf65b5c1ce73547943b0d80d7c6deb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
